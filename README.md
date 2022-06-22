@@ -1,3 +1,3 @@
-# C-Age-Checker-Program
+# C#-Age-Checker-Program
 
 Age Checker Program In C#
